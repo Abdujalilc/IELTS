@@ -1,0 +1,12 @@
+Topic-specific vocabulary
+
+1. Education → curriculum, tuition fees, literacy, academic achievement, assessment, compulsory, vocational training  
+2. Environment → pollution, climate change, renewable energy, deforestation, greenhouse gases, conservation, sustainability  
+3. Health → obesity, public health, mental illness, healthcare system, vaccination, life expectancy, malnutrition  
+4. Technology → innovation, artificial intelligence, digital devices, internet access, automation, cybersecurity, e-commerce  
+5. Work → employment, job market, career progression, remote working, unemployment, workforce, job satisfaction  
+6. Economy → inflation, GDP, recession, investment, economic growth, taxation, financial crisis  
+7. Society → social inequality, poverty, crime rate, cultural diversity, urbanization, gender roles, aging population  
+8. Government → legislation, policy, democracy, taxation, authority, public sector, governance  
+9. Media → journalism, censorship, mass communication, social media, propaganda, broadcasting, digital platforms  
+10. Transport → traffic congestion, public transport, infrastructure, commuting, emissions, road safety, vehicle ownership  

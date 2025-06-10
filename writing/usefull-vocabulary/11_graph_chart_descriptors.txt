@@ -1,0 +1,41 @@
+Graph/chart descriptors
+
+1. Types of visuals
+- bar chart
+- line graph
+- pie chart
+- table
+- diagram
+- flow chart
+- map
+
+2. Elements of charts
+- axis (horizontal/vertical)
+- segment
+- category
+- label
+- data point
+- key/legend
+- title
+- percentage
+- figure
+- value
+
+3. Describing axes
+- the horizontal axis shows...
+- the vertical axis represents...
+- the x-axis displays...
+- the y-axis indicates...
+
+4. Referring to chart components
+- each segment of the pie chart...
+- the tallest bar in the chart...
+- the highest point on the line graph...
+- the table provides information on...
+- the map illustrates changes in...
+
+5. Example phrases
+- The pie chart is divided into four segments.
+- The line graph shows a sharp increase in sales.
+- The table provides data on population growth.
+- The x-axis represents years, while the y-axis shows population size.
