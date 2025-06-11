@@ -1,0 +1,11 @@
+Degree modifiers:  
+- extremely → highly, intensely, greatly  
+- very → exceptionally, remarkably, noticeably  
+- highly → strongly, deeply, exceedingly  
+- fairly → moderately, reasonably, somewhat  
+- quite → rather, somewhat, to some extent  
+- slightly → marginally, a little, just a bit  
+- barely → hardly, scarcely, narrowly  
+- almost → nearly, virtually, practically  
+- totally → completely, entirely, absolutely  
+- significantly → considerably, notably, meaningfully  

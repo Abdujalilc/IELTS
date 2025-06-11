@@ -1,0 +1,11 @@
+Uncertainty language  
+- it seems → it appears, it looks as though, it would seem  
+- it appears → it seems, it is likely, it looks like  
+- possibly → maybe, perhaps, conceivably  
+- potentially → likely, possibly, with the possibility of  
+- arguably → debatably, questionably, some may say  
+- may → might, could, can  
+- might → may, could, possibly  
+- could → may, might, is able to  
+- there is a chance that → it is possible that, it could be that  
+- it is likely that → it is probable that, it is expected that  
